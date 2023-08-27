@@ -1,3 +1,6 @@
+The code in this release functions the same as Dom Christie's, I just reskinned it to suit my asthetics.
+-Craig
+
 # Needles
 Audio loudness metering in the browser.
 
